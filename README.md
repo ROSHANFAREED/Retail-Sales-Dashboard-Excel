@@ -1,4 +1,5 @@
 Retail Sales Analysis Dashboard (Excel Capstone Project)
+
 📌 Project Overview
 
 This project showcases an end-to-end data analysis workflow using Microsoft Excel.
